@@ -1,0 +1,14 @@
+{
+  "name": "json-modules-and-tagged-unions",
+  "version": "0.0.1",
+  "description": "Minimal example of error",
+  "author": "wegry",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.1.0-dev.20200821"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}

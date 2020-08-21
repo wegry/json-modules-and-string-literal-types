@@ -1,0 +1,9 @@
+{
+  "$schema": {
+    "declarations": {
+      "name": {
+        "type": "string"
+      }
+    }
+  }
+}
